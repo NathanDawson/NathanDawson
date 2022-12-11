@@ -24,7 +24,6 @@ I'm a Software Associate currently working at Apexon (Sunderland), completing my
 
 
 ### Stats
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanDawson&include_all_commits=true&show_icons=true&theme=tokyonight)]
-(https://github.com/NathanDawson/)
+[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanDawson&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/NathanDawson/)
 
 
