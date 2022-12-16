@@ -7,7 +7,8 @@ I'm a Software Associate currently working at Apexon (Sunderland), completing my
 <a href= "https://www.linkedin.com/in/nathan-dawson-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /> </a>
 <a href="mailto:contact@nathandawson.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
 
----
+#
+<br/>
 
 ### Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -22,8 +23,12 @@ I'm a Software Associate currently working at Apexon (Sunderland), completing my
 
 #
 
+<br/>
+
 
 ### Stats
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanDawson&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/NathanDawson/)
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanDawson&show_icons=true&theme=tokyonight)
+
+#
 
 
