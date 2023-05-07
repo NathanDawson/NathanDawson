@@ -1,8 +1,8 @@
 #  💻 Nathan Dawson
 
-`Software Developer | Computer Science Student`
+`Data Analyst | Software Developer | Computer Science Student`
 
-I am a Computer Science student at Newcastle University, recently completing a year in industry as an Associate Developer at Apexon.I am an aspiring software developer, with hopes of building my version of the digital world one step at a time. Multiple languages, frameworks and other technologies excite me, and I have apriations to build many things with all. 
+I am a Computer Science student at Newcastle University, recently completing a year in industry as an Associate Developer at Apexon. I am an aspiring data analyst / software developer, with hopes of building my version of the digital world one step at a time. Multiple languages, frameworks and other technologies excite me, and I have aspirations to build many things with all. 
 
 <a href= "https://www.linkedin.com/in/nathan-dawson-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /> </a>
 <a href="mailto:contact@nathandawson.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
