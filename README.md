@@ -6,7 +6,6 @@ I am a final year Computer Science student at Newcastle University, deeply passi
 
 <a href="https://www.nathandawson.dev/"><img src="https://img.shields.io/badge/Website-1f425f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href= "https://www.linkedin.com/in/nathan-dawson-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
-<a href="mailto:contact@nathandawson.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 
 
