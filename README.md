@@ -1,6 +1,6 @@
 #  💻 Nathan Dawson
 
-`Aspiring Data Scientist / Analyst | Recent Computer Science Graduate`
+`Aspiring Data Analyst | Recent Computer Science Graduate`
 
 I am a recent graduate of Newcastle University with a First in Computer Science, deeply passionate about all things data and its application in real-world scenarios. Having enriched my skills with a year in industry as an Associate Developer at Apexon and completing modules such as Predictive Analytics, Computer Vision, AI, Data Visualisation, and Biomedical Data Analytics, I have a solid foundation in data related skills. My dissertation focused on predicting knee osteoarthritis progression using machine learning, further honing my skills. With a keen eye on a data-centric career, I am poised to apply my diverse technical skills and insights in transformative projects within the field.
 
