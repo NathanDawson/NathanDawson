@@ -1,8 +1,8 @@
 #  💻 Nathan Dawson
 
-`Computer Science Graduate | 1-Year Software Developer Placement | Python & C# | Seeking Software & Data Roles`
+`Junior Test & Support Analyst at OCS Consulting | Client Communication | Data reporting & Analysis | Python & C# `
 
-I am a recent Computer Science graduate from Newcastle University, achieving First-Class Honours. During my year in industry as a Software Associate, I gained valuable experience reporting project progress to client stakeholders and leading development projects using C# and MySQL. My dissertation focused on predicting knee osteoarthritis progression through developing an automated data pipeline using Python, coupled with various machine learning techniques. I am now eager to apply my knowledge in software engineering and data analysis to impactful projects.
+I am a Computer Science graduate from Newcastle University with First-Class Honours, currently working as a Junior Test and Support Analyst at OCS Consulting. In my role, I interact with clients daily, manage support tickets, and produce weekly reports summarising system performance and issue resolution. I leverage data analysis and visualisation to provide insights that drive decision-making. My background includes a year-long software placement, professional C# training, and a dissertation using machine learning on NHS patient data to predict knee osteoarthritis progression. I am passionate about applying software and data skills to meaningful projects.
 
 <a href="https://www.nathandawson.dev/"><img src="https://img.shields.io/badge/Website-1f425f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href= "https://www.linkedin.com/in/nathan-dawson-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
