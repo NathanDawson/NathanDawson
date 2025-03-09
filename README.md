@@ -1,6 +1,6 @@
 #  💻 Nathan Dawson
 
-`Junior Test & Support Analyst at OCS | Client Communication | Data reporting & Analysis | Python & C# `
+`Junior Test & Support Analyst | Client Communication | Data reporting & Analysis | Python & C# `
 
 I am a Computer Science graduate from Newcastle University with First-Class Honours, currently working as a Junior Test and Support Analyst at OCS Consulting. In my role, I interact with clients daily, manage support tickets, and produce weekly reports summarising system performance and issue resolution. I leverage data analysis and visualisation to provide insights that drive decision-making. My background includes a year-long software placement, professional C# training, and a dissertation using machine learning on NHS patient data to predict knee osteoarthritis progression. I am passionate about applying software and data skills to meaningful projects.
 
